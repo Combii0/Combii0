@@ -1,22 +1,24 @@
-<div align='center'>
+<div align='center' border='0'>
   <img src='img/linee.gif'></img>
-  <h1> Hello, I am Santiago Hernández Sotomonte 👋</h1>
+  <h6>Hello, I am</h6><h1>Santiago Hernández Sotomonte 👋</h1>
 </div>
 </br>
-<h2>Some Proyects...</h2>
-<img src='img/monera.png' href='https://combinah.itch.io/monera'></img> <img src='iconSQ.png' href='https://github.com/Combii0/PyChess'></img>
 
-<!--
-**Combii0/Combii0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 border='0'>Some Proyects...</h2>
+<div>
+  <a href='https://combinah.itch.io/monera'>
+    <img src='img/monera.gif' width=100px height=100px></img>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://github.com/Combii0/PyChess'>
+    <img src='img/iconSQ.png'></img>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://interpoli.vercel.app'>
+    <img src='img/logo.png'></img>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://school-ways.vercel.app'>
+    <img src='img/SchoolWays.png'></img>
+  </a>
+</div>
