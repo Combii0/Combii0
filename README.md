@@ -25,7 +25,7 @@
 </div>
 
 </br><br>
-<img src='img/oshawott.gif' align='left' width='100' height='100'></img>
+<img src='img/oshawott.gif' align='left' width='120' height='120'></img>
 <table><td>
 
   - 🔭 I’m currently working on [**Renova**](https://renovacol.vercel.app) for the FEDESOFT National contest with other people in representation for the school for second time!
