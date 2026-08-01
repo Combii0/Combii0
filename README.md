@@ -1,6 +1,7 @@
 <div align='center'>
+  <img src='img/line.gif'></img>
   <h1> Hello, I am Santiago Hernández Sotomonte 👋</h1>
-  </img src=''>
+  <img src='img/line.gif'></img>
 </div>
 
 <!--
