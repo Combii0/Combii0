@@ -4,7 +4,7 @@
 </div>
 </br>
 
-<h3 border='0'>Some Proyects I Have Made...</h2>
+<h3 border='0'>Some proyects I have made...</h3>
 <br><br><br>
 <div align='center'>
   <a href='https://combinah.itch.io/monera'>
@@ -25,15 +25,18 @@
 </div>
 
 </br><br><br>
+<table><td>
 
-- 🔭 I’m currently working on [**Renova**](https://renovacol.vercel.app) for the FEDESOFT National contest with other people in representation for the school for second time!
+  - 🔭 I’m currently working on [**Renova**](https://renovacol.vercel.app) for the FEDESOFT National contest with other people in representation for the school for second time!
 
-- 🌱 I’m currently learning **how can AI Agents infuence the development in specific areas like learning and teaching**.
+  - 🌱 I’m currently learning **how can AI Agents infuence the development in specific areas like learning and teaching**.
 
-- ☁️ I've keen interest in VideoGames and Web-Apps. So, I'm learning **Unity** and **TypeScript**
+  - ☁️ I've keen interest in VideoGames and Web-Apps. So, I'm learning **Unity** and **TypeScript**
 
-- 💬 Ask me about **Python, Web Tech, Next.js and Unity**!
+  - 💬 Ask me about **Python, Web Tech, Next.js and Unity**!
 
-- 📫 Feel free to reach me out **santililchyn0@gmail.com**
+  - 📫 Feel free to reach me out **santililchyn0@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [**Combinah**](https://discordapp.com/users/756268192506052661)!
+  - 🏠 Don't hesitate to drop me a **👋** on Discord –  [**Combinah**](https://discordapp.com/users/756268192506052661)!
+
+</td></table>
