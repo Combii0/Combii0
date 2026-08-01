@@ -40,3 +40,7 @@
   - 🏠 Don't hesitate to drop me a **👋** on Discord –  [**Combinah**](https://discordapp.com/users/756268192506052661)!
 
 </td></table>
+</br></br></br>
+<img src='
+</br></br></br>
+<img src='img/linee.gif'></img>
