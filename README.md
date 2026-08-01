@@ -41,6 +41,6 @@
 
 </td></table>
 </br></br></br>
-<img src='
+<img src='img/Combi.jpg'></img>
 </br></br></br>
 <img src='img/linee.gif'></img>
