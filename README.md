@@ -41,8 +41,11 @@
   - 🏠 You can always send me a **👋** on Discord –  [**Combinah**](https://discordapp.com/users/756268192506052661)! <img src='img/leafeon.gif' width='70' height='70' align='right'></img>
 
 </td></table>
+<h3>Who am I?</h3>
 <div align='center'>
-
+  <a>I am Santiago Hernández, an aspiring Systems Engineer passionate about **software development, artificial intelligence, and emerging technologies**. Throughout my academic journey, I have participated in and achieved recognition in several **programming and innovation competitions**, including [Roboyork 2025](https://colegionuevayork.edu.co/roboyork/), [HackClub CampFire Bogotá 2026](https://www.google.com/search?q=hackclub+campfire+bogot%C3%A1+2026&rlz=1C5CHFA_enCO1180CO1180&oq=hackclub+campfire+bogot%C3%A1+2026&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIHCAMQABjvBTIKCAQQABiiBBiJBTIHCAUQABjvBdIBCDY0MTBqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8#:~:text=CAMPFIRE%20BOGOT%C3%81%20%F0%9F%94%A5%20El,hace%205%20meses)(And also got Top 3 in theming at the international game jam [Ember](https://itch.io/jam/ember) with my game [**Monera**](https://combinah.itch.io/monera)), and the national [FEDESOFT programming competition](https://fedesoft.org/), where I represented my school and reached the Top 10 among participating institutions. These experiences have strengthened my problem-solving skills, creativity, and ability to develop technological solutions under challenging environments. I am constantly exploring new technologies and building projects with the purpose of creating meaningful innovations that can positively impact society.</a>
+</div>
+<div align='center'>
 </br></br></br>
 <img src='img/furret.gif' width='100px' height='100px'></img></br><h6>Santiago Hernández Sotomonte</br>Bogotá, Colombia</br>2026</h6>
 </br>
