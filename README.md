@@ -33,14 +33,17 @@
 
   - ☁️ I've keen interest in VideoGames and Web-Apps. So, I'm learning **Unity** and **TypeScript**
 
-  - 💬 Ask me about **Python, Web Tech, Next.js and Unity**!
+  - 💬 I have written code in **Python, Web Tech, Next.js and Unity**!
 
-  - 📫 Feel free to reach me out **santililchyn0@gmail.com**
+  - 📫 Feel free to write me through my e-mail: <a href='mailto:santililchyn0@gmail.com'>**santililchyn0@gmail.com**</a>
 
-  - 🏠 Don't hesitate to drop me a **👋** on Discord –  [**Combinah**](https://discordapp.com/users/756268192506052661)!
+  - 🏠 You can always send me a **👋** on Discord –  [**Combinah**](https://discordapp.com/users/756268192506052661)!
 
 </td></table>
+<div align='center'>
+
 </br></br></br>
-<img src='img/Combi.jpg'></img>
-</br></br></br>
+<img src='img/Combi.jpg' width='100px' height='100px'></img></br><h6>Santiago Hernández Sotomonte</br>Bogotá, Colombia</br>2026</h6>
+</br>
 <img src='img/linee.gif'></img>
+</div>
