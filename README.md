@@ -4,7 +4,8 @@
 </div>
 </br>
 
-<h3 border='0'>Some Proyects...</h2>
+<h3 border='0'>Some Proyects I Have Made...</h2>
+<br><br><br>
 <div align='center'>
   <a href='https://combinah.itch.io/monera'>
     <img src='img/monera.gif' width='100px' height='100px'></img>
@@ -22,3 +23,17 @@
     <img src='img/SchoolWays.png' width='100px' height='100px'></img>
   </a>
 </div>
+
+</br><br><br>
+
+- 🔭 I’m currently working on [**Renova**](https://renovacol.vercel.app) for the FEDESOFT National contest with other people in representation for the school for second time!
+
+- 🌱 I’m currently learning **how can AI Agents infuence the development in specific areas like learning and teaching**.
+
+- ☁️ I've keen interest in VideoGames and Web-Apps. So, I'm learning **Unity** and **TypeScript**
+
+- 💬 Ask me about **Python, Web Coding, AI and Unity**!
+
+- 📫 Feel free to reach me out **santililchyn0@gmail.com**
+
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [**Combinah**](https://discordapp.com/users/756268192506052661)!
