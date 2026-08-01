@@ -45,7 +45,12 @@
 I am Santiago Hernández, a future System Engineer passionate about <strong>software development, artificial intelligence, and emerging technologies</strong>. Throughout my academic journey, I have participated in and achieved recognition in several <strong>programming and innovation competitions</strong>, including <strong><a href='https://colegionuevayork.edu.co/roboyork'>Roboyork 2025</strong></a>, <strong><a href='https://www.google.com/search?q=hackclub+campfire+bogot%C3%A1+2026&rlz=1C5CHFA_enCO1180CO1180&oq=hackclub+campfire+bogot%C3%A1+2026&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIHCAMQABjvBTIKCAQQABiiBBiJBTIHCAUQABjvBdIBCDY0MTBqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8#:~:text=CAMPFIRE%20BOGOT%C3%81%20%F0%9F%94%A5%20El,hace%205%20meses'>HackClub CampFire Bogotá 2026</strong></a>(And also got Top 3 in theming at the international game jam <strong><a href='https://itch.io/jam/ember'>Ember</strong></a> with my game <strong><a href='https://combinah.itch.io/monera'>Monera</strong></a>, and the national <strong><a href='https://fedesoft.org/'>FEDESOFT programming competition</strong></a>, where I represented my school and reached the Top 10 among participating institutions. These experiences have strengthened my problem-solving skills, creativity, and ability to develop technological solutions under challenging environments. I am constantly exploring new technologies and building projects with the purpose of creating meaningful innovations that can positively impact society.
 
 </div>
-<img src='![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)' alt='GitHub Stats'/>
+</br></br></br>
+<div align='center'>
+  <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Combii0&show_icons=true&theme=tokyonight&locale=en' alt='Github Stats' width='430' height='auto'/>
+  &nbsp
+  <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Combii0&layout=compact&theme=tokyonight&locale=en' alt='Most Used Languages'/>
+</div>
 <div align='center'>
 </br></br></br>
 <img src='img/furret.gif' width='100px' height='100px'/></br><h6>Santiago Hernández Sotomonte</br>Bogotá, Colombia</br>2026</h6>
