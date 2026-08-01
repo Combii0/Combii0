@@ -1,8 +1,10 @@
 <div align='center'>
-  <img src='img/line.gif'></img>
+  <img src='img/linee.gif'></img>
   <h1> Hello, I am Santiago Hernández Sotomonte 👋</h1>
-  <img src='img/line.gif'></img>
 </div>
+</br>
+<h2>Some Proyects...</h2>
+<img src='img/monera.png' href='https://combinah.itch.io/monera'
 
 <!--
 **Combii0/Combii0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
