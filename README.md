@@ -1,6 +1,6 @@
 <div align='center' border='0'>
   <img src='img/linee.gif'/>
-  <h6>Hello, I am</h6><h1>Santiago Hernández Sotomonte 👋</h1>
+  <h5>Hello, I am</h5><h1>Santiago Hernández Sotomonte 👋</h1>
 </div>
 </br>
 
