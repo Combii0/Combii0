@@ -46,6 +46,7 @@ I am Santiago Hernández, a future System Engineer passionate about <strong>soft
 
 </div>
 </br></br></br>
+<img src='img/pikachu.gif' width='70', height='auto' align='right'/>
 <div align='center'>
   <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Combii0&show_icons=true&theme=tokyonight&locale=en' alt='Github Stats' width='430' height='auto'/>
   &nbsp
