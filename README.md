@@ -4,7 +4,7 @@
 </div>
 </br>
 <h2>Some Proyects...</h2>
-<img src='img/monera.png' href='https://combinah.itch.io/monera'
+<img src='img/monera.png' href='https://combinah.itch.io/monera'></img> <img src='iconSQ.png' href='https://github.com/Combii0/PyChess'></img>
 
 <!--
 **Combii0/Combii0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
