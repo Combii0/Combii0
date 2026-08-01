@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in VideoGames and Web-Apps. So, I'm learning **Unity** and **TypeScript**
 
-- 💬 Ask me about **Python, Web Coding, AI and Unity**!
+- 💬 Ask me about **Python, Web Tech, Next.js and Unity**!
 
 - 📫 Feel free to reach me out **santililchyn0@gmail.com**
 
