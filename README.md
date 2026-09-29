@@ -19,6 +19,8 @@
   </a></td>
   <td><a href='https://school-ways.vercel.app'>
     <img src='img/SchoolWays.png' width='100px' height='100px'/>
+  <td><a href='https://combinah.itch.io/goetia'>
+    <img src='img/goetia.png' width='100px' height='100px'/>
   </a></td>
 </table>
 </div>
